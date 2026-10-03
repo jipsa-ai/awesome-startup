@@ -142,7 +142,7 @@ Before you build anything, these are the tools that change how a founder researc
 - [Pydantic AI](https://pydantic.dev/docs/ai/overview/) - Type-safe Python agents with structured, validated outputs.
 - [DSPy](https://dspy.ai/) - Programming rather than prompting, with optimizers that tune prompts against your metric.
 - [Ollama](https://ollama.com/) - Run open models locally, which is the cheapest way to iterate and the simplest answer to "does our data leave the building?"
-- [Hivemeld](https://hivemeld.com?utm_source=krish-startup-awesome&utm_medium=awesome-list&utm_campaign=GRO-089) — Deploy a named AI agent workforce to run your company. Agents handle engineering, marketing, support, and finance autonomously while founders focus on strategy. Built-in backlog, CRM, analytics, and Discord integration. 1,100+ tasks completed in production. ([annual plan](https://hivemeld.com/buy?plan=annual&utm_source=krish-startup-awesome&utm_medium=awesome-list&utm_campaign=GRO-089))
+- [Hivemeld](https://hivemeld.ai?utm_source=krish-startup-awesome&utm_medium=awesome-list&utm_campaign=GRO-089) — Deploy a named AI agent workforce to run your company. Agents handle engineering, marketing, support, and finance autonomously while founders focus on strategy. Built-in backlog, CRM, analytics, and Discord integration. 1,100+ tasks completed in production. ([annual plan](https://hivemeld.ai/buy?plan=annual&utm_source=krish-startup-awesome&utm_medium=awesome-list&utm_campaign=GRO-089))
 
 ### Evaluation and Observability
 
